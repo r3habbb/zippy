@@ -1,1 +1,1 @@
-Add KaTeX support + updates to YOLOv9 model page (#8531)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
