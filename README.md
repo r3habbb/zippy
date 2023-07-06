@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+Fixed RTDETR GFLOPs bug (#7309)
