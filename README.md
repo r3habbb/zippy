@@ -1,1 +1,1 @@
-Add bgr hyperparameter (#9139)
+Add new YOLOv8 OBB model metrics (#7379)
