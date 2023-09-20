@@ -1,1 +1,1 @@
-Fix heatmaps width-height order bug (#7184)
+Fix PIL show() and save() (#8202)
