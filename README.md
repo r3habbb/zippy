@@ -1,1 +1,1 @@
-Update Discord and Contributing Guide URLs (#9270)
+Explorer with LanceDB, Actions and Docs updates (#7487)
