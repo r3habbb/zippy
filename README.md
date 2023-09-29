@@ -1,1 +1,1 @@
-Fix heatmaps width-height order bug (#7184)
+Added check of parameter type before setting required_grad=True for frozen layers (#8318)
