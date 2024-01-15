@@ -1,1 +1,1 @@
-Add C++ Classify inference example (#6868)
+Add https://youtu.be/rCggzXRRSRo to Speed Estimation Docs (#8577)
