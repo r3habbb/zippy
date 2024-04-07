@@ -1,1 +1,1 @@
-Bounding Box to OBB conversion (#7572)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
