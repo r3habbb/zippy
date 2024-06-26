@@ -1,1 +1,1 @@
-Fix OBB xywh-angle concatenation bug (#7404)
+Add visuals in guides/distance-calculation.md (#7876)
