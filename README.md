@@ -1,1 +1,1 @@
-fix export tensorrt with dynamic size
+Update Twitter icon in Docs (#7711)
