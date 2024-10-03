@@ -1,1 +1,1 @@
-Add dota8.yaml and O tests (#7394)
+docs: update view-results-in-terminal.md (#66)
