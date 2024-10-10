@@ -1,1 +1,1 @@
-Merge pull request #22 from SkalskiP/patch-1
+Add CoreML Docs Integrations Page (#8063)
